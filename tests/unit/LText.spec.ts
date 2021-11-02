@@ -38,7 +38,7 @@ describe('LText Test', () => {
 
   it('测试是否跳转', async () => {
     const props = {
-      ...textDefaultProps
+      ...textDefaultProps,
       actionType: 'url',
       url: 'http://test.url',
       tag: 'h2'
