@@ -1,3 +1,7 @@
 language: node_js
 node_js:
-  - node
+  - 14
+deploy
+  provider:npm
+  email: stillpeng_github@163.com
+  api_key: ''
