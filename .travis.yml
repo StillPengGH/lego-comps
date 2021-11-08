@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - 14
-deploy
-  provider:npm
-  email: stillpeng_github@163.com
-  api_key: ''
+# deploy
+#   provider:npm
+#   email: stillpeng_github@163.com
+#   api_key: ''
